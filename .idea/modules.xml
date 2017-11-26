@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:\Users\IhebChiha\Desktop\GreaterGood2\GreaterGood.iml" filepath="C:\Users\IhebChiha\Desktop\GreaterGood2\GreaterGood.iml" />
+      <module fileurl="file://C:\RRDL\GreaterGood2\GreaterGood.iml" filepath="C:\RRDL\GreaterGood2\GreaterGood.iml" />
       <module fileurl="file://$PROJECT_DIR$/GreaterGood2.iml" filepath="$PROJECT_DIR$/GreaterGood2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\IhebChiha\Desktop\GreaterGood2\app\app.iml" filepath="C:\Users\IhebChiha\Desktop\GreaterGood2\app\app.iml" />
     </modules>
   </component>
 </project>
